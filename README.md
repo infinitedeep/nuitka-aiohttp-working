@@ -1,4 +1,4 @@
-Issue tracked at [Nuitka/#626](https://github.com/Nuitka/Nuitka/issues/)
+Issue tracked at [Nuitka/#626](https://github.com/Nuitka/Nuitka/issues/626)
 
 This repo illustrates a working version of nutika and aiohttp.Any exception in the coroutine where we use aiohttp to make network request when wrapped in try catch, swallows the exception and the exception is not bubbled up
 
